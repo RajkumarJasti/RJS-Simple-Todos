@@ -1,0 +1,24 @@
+.bg-item {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0px;
+}
+
+.item-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.item-btn {
+  font-family: 'Roboto';
+  color: #ff0b37;
+  background-color: #ffffff;
+  border-color: #ff0b37;
+  padding: 10px;
+  align-self: center;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}
